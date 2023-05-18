@@ -21,4 +21,5 @@ API : Tourism Authority of Thailand API
 
 Presentation Slides : CHATBOT.pdf
 
-
+![Example Image1](https://user-images.githubusercontent.com/59200533/239165792-8a0a099f-73c7-4660-80af-3e601377b42c.png)
+![Example Image2](https://user-images.githubusercontent.com/59200533/239165943-53d3e5bb-1817-4555-8d73-bd066250eb03.png)
