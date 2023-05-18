@@ -6,7 +6,8 @@
 - เพื่อส่งเสริมการท่องเที่ยวในประเทศไทย
 
 รายละเอียด : 
-- ใช้ภาษา python และ flask library ในการ deploy ขึ้นโดยใช้ HeroKU เพื่อใช้ควบคู่กับ Dialogflow
+- ใช้ภาษา python และ flask library
+- Deploy ขึ้นโดยใช้ HeroKU เพื่อใช้ควบคู่กับ Dialogflow
 - ใช้แอพลิเคชั่น LINE ในการพูดคุยระหว่างผู้ใช้และ Chatbot
 
 คุณสมบัติ :
